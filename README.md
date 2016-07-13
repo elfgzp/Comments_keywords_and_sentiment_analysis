@@ -1,0 +1,6 @@
+# Comments_keywords_and_sentiment_analysis
+商品评论关键词提取和评论情感分析
+
+用于网页的商品评论
+使用django作为模拟和数据录入
+主要使用jieba和snownlp等python函数库
