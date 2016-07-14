@@ -5,3 +5,4 @@ from MyApp.models import *
 
 admin.site.register(Commodity)
 admin.site.register(Comment)
+admin.site.register(KeywordsStatistics)
